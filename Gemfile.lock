@@ -1,0 +1,19 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    libv8-node (18.16.0.0-x86_64-linux)
+    mini_racer (0.8.0)
+      libv8-node (~> 18.16.0.0)
+    psych (5.1.1.1)
+      stringio
+    stringio (3.0.9)
+
+PLATFORMS
+  x86_64-linux
+
+DEPENDENCIES
+  mini_racer
+  psych
+
+BUNDLED WITH
+   2.4.22
